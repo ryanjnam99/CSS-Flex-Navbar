@@ -1,4 +1,6 @@
-
+body {
+    font-family: 'Roboto', sans-serif;
+}
 .nav {
     background-color: rgba(20, 20, 20, 0.776);
     display: flex;
