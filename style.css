@@ -1,0 +1,34 @@
+
+.nav {
+    background-color: rgba(20, 20, 20, 0.776);
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.nav-title {
+    color:white;
+    font-family: cursive;
+    margin: 20px;
+}
+
+.nav-links {
+    display: inline-block;
+    align-items: center;
+    justify-content: space-around;
+    margin: 5px 0px 0px 0px; 
+    font-family: sans-serif;
+}
+
+.nav a {
+    color:aliceblue;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+
+.nav button {
+    color: white;
+    background-color: turquoise;
+    box-shadow: 2px 2px black;
+    margin: 0px 5px 0px 0px;
+}
